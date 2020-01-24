@@ -5,8 +5,7 @@ const SPECIAL = "special";
 const prosent1= 0.01;
 const prosent5 = 0.05;
 const prosent30 =0.3;
- 
-const obj1 = {
+ const obj1 = {
     sum:1000,
     category:REGULAR
 }
@@ -21,4 +20,5 @@ const obj3 = {
 
 let cashback = (obj1.sum * prosent1) + (obj2.sum * prosent5) + (obj3.sum * prosent30);
 console.log(cashback);
+
 
