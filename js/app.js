@@ -1,11 +1,11 @@
 
-const REGULAR_PURCHASE = "regular";
+const REGULAR_PURCHASE = 500;
 const regularPurchasePercent = 0.01;
 
-const INCREASED_PURCHASE = "increased";
+const INCREASED_PURCHASE = 600;
 const increasedPurchasePercent = 0.05;
 
-const SPECIAL_PURCHASE = "special";
+const SPECIAL_PURCHASE = 700;
 const scecialPurchasePercent = 0.3;
 
 
